@@ -24,7 +24,7 @@ BADE Stories is a cognitive task designed to detect the bias against disconfirma
 This version can be completed in English or French and consists of 2 practice trials and 16 main trials (12 experimental, 4 interspersed filler). 
 
 <p align="center">
-  <img src="https://gitlab.pavlovia.org/crispstudies/bade-stories/raw/master/documentation/BADE_stories.gif" width="85%" height="85%"/>
+  <img src="https://github.com/carodak/BADE-Stories/blob/main/documentation/BADE_stories.gif" width="85%" height="85%"/>
 </p>
 
 ## Development
